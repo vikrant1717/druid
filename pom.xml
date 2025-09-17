@@ -181,6 +181,7 @@
          <jacocoArgLine />
          <!--  used to enable continuous profiling of jdk17 unit tests in github actions  -->
          <jfrProfilerArgLine></jfrProfilerArgLine>
+       <sonar.organization>vikrant1717</sonar.organization>
     </properties>
 
     <modules>
